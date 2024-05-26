@@ -1,0 +1,3 @@
+.dockerignore
+.gitignore
+package-lock.json
